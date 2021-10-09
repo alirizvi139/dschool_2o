@@ -1,4 +1,6 @@
-## About DSchool ERP 2.0 - The Ultimate Education Management System For School, Institute & Academy 
+
+## About DSchool  new version is deploid- The Ultimate Education Management System For School, Institute & Academy 
+
 
 Managing various administrative tasks in one place is now quite easy and time savior with this INFIX and Give your valued time to your institute that will increase next generation productivity for our society.
 
